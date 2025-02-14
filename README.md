@@ -4,8 +4,7 @@ Resource Economics (Spring Term 2025)
 
 # Structure of the Exercise Sessions & Project Assignments
 
-**Raul Hochuli**: [raul.hochuli@unibas.ch](mailto:raul.hochuli@unibas.ch)
-
+*Raul Hochul**: [raul.hochuli@unibas.ch](mailto:raul.hochuli@unibas.ch)
 
 
 ### About the Exercise Sessions in General
