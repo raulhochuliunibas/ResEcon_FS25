@@ -14,7 +14,7 @@ Resource Economics (Spring Term 2025)
 - Ability to transfer pen & paper calculations into software models to solve more complex model specifications numerically.
   
 **About software and coding:**
-- We will use Python during the sessions. If you are new to the software, please visit the [slides of "Introduction to Python Programming"](https://github.com/leops95/intro_to_python/blob/master/intro_to_python_HS2024.pdf) by a fellow PhD student [Leo Picard (2024)](https://github.com/leops95/intro_to_python/tree/master), including some exercises to get coding practice from the beginning.
+- We will use Python during the sessions. If you are new to the software, please visit the [slides of "Introduction to Python Programming"](https://github.com/leops95/intro_to_python) by a fellow PhD student [Leo Picard (2024)](https://github.com/leops95/intro_to_python/tree/master), including some exercises to get coding practice from the beginning.
 - You are free to use Python in whichever IDE tool you prefer (PyCharm, VSCode, Spyder, etc.). I will use Jupyter Notebooks in the exercises because they are handy for teaching. You are also free to use "straight" Py-files if you prefer that. If you are completely new to Python, I suggest you use [Google Colab](https://www.youtube.com/watch?v=gfK2LpkUKac) (see a basic [tutorial](https://www.youtube.com/watch?v=gfK2LpkUKac)).
 - I might sometimes give you hints (blog posts, YouTube videos, etc.). There might well be other explanations online (or prompted by GPT) that are better suited for you. I encourage you, therefore, to also Google a lot yourself despite the hints.
 
